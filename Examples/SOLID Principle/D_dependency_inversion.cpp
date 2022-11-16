@@ -29,6 +29,7 @@ class MyCatShop;
 >> This time, we will focus on Purchasing Cat Food.
    Please look at main() and compare class BadCatShop with GoodCatShop
    GoodCatShop has an Abstraction Layer, which makes purchasing more flexible.
+   (Not be constrained by the low-level classes!)
 */
 
 class CatFoodVendor
