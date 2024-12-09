@@ -1,6 +1,8 @@
 /*[ Summary ]
-ShapeSensor is a behavioral design pattern that lets you separate 
+Visitor is a behavioral design pattern that lets you separate 
 algorithms from the objects on which they operate.
+(Type Class Pattern offers a simular function,
+ which makes extending a new Type in Functional Programming easier.)
 
 Note: Double Dispatch is the key!
 */
